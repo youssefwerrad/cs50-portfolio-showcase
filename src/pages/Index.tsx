@@ -3,7 +3,6 @@ import HeroSection from "@/components/HeroSection";
 import TechBar from "@/components/TechBar";
 import SkillsSection from "@/components/SkillsSection";
 import TechnologiesSection from "@/components/TechnologiesSection";
-import CoursesSection from "@/components/CoursesSection";
 import ProjectsSection from "@/components/ProjectsSection";
 import Footer from "@/components/Footer";
 
@@ -16,7 +15,6 @@ const Index = () => {
         <TechBar />
         <SkillsSection />
         <TechnologiesSection />
-        <CoursesSection />
         <ProjectsSection />
       </main>
       <Footer />
